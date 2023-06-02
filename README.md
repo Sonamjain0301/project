@@ -54,8 +54,8 @@ Assume that you have done the review and proposed the following tools can be use
 
 Following tools for Continuous Integration
 
-* Git for Code Management. GitLab for UI tool of Git. 
+* Git for Code Management. 
 * SonarQube for Code Quality 
 * Sonatype Nexus for Artifact Management.
-* 
+
 
